@@ -1,0 +1,8 @@
+EduQuiz™: Quizzes for Education
+
+
+
+/: everything
+/front/: frontend
+/front/make: make a quiz (for teachers)
+/front/quiz: take a quiz (for students)
